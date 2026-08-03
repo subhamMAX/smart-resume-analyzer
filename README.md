@@ -8,8 +8,9 @@ Built with Spring Boot (Java 17) and React (Vite + Tailwind CSS), the system sim
 
 ## 🌍 Live Demo
 
-🔗 **Backend:** https://your-backend.onrender.com  
-🔗 **Frontend:** https://your-frontend.onrender.com
+🔗 **Backend:** [https://your-backend.onrender.com  ](https://smart-resume-analyzer-backend-mrg2.onrender.com)
+🔗 **Frontend:** [https://your-frontend.onrender.com](https://smart-resume-analyzer-nzh3rg4lf-subham18.vercel.app)
+
 
 *(Replace with your Render URLs after deployment.)*
 
