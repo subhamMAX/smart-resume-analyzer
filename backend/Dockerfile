@@ -1,5 +1,5 @@
 # Build stage - Maven with Java 17
-FROM eclipse-temurin:17-jdk AS builder
+FROM maven:3.9-eclipse-temurin-17 AS builder
 WORKDIR /app
 
 # Copy pom and download dependencies (cached unless pom changes)
@@ -25,3 +25,4 @@ EXPOSE 8080
 
 # PORT and DB/JWT are provided via environment at runtime
 ENTRYPOINT ["java", "-jar", "app.jar"]
+
