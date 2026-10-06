@@ -354,8 +354,8 @@ This project demonstrates:
 
 ## 👨‍💻 Author
 
-**Vipin Tomar**  
-B.Tech CSE (AI & Data Science)  
+**Subham**  
+Bachelor of Computer Application 
 Backend & AI Enthusiast
 
 ---
