@@ -355,8 +355,9 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Subham**  
-Bachelor of Computer Application 
+Bachelor of Computer Applications, JIIT Noida  
 Backend & AI Enthusiast
+
 
 ---
 
